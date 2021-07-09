@@ -5,7 +5,7 @@ App specifically displays the city, current temperature, max and min temperature
 
 # What I learned
 * Working with Android Studio
-* Working with xml files 
+* Working with XML files 
 * Parsing JSON files given by an API
 * Doing HTTP Requests
 
