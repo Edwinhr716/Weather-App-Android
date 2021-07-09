@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void weatherAPI(){
-        String url = "https://api.openweathermap.org/data/2.5/onecall?lat=14.628434&exclude=minutely,hourly&lon=-90.522713&appid=b79b0e3f0f157a43a092c9f4c4cfdbe4";
+        String url = "https://api.openweathermap.org/data/2.5/onecall?lat={}&exclude=minutely,hourly&lon={}&appid={}";
         AsyncHttpClient client = new AsyncHttpClient();
         RequestParams params = new RequestParams();
         params.put("key", "value");
@@ -194,7 +194,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void setCity(){
         TextView city = findViewById(R.id.City);
-        String url = "https://api.openweathermap.org/data/2.5/weather?lat=14.628434&lon=-90.522713&appid=b79b0e3f0f157a43a092c9f4c4cfdbe4";
+        String url = "https://api.openweathermap.org/data/2.5/weather?lat={}&lon={}&appid={}";
         AsyncHttpClient client = new AsyncHttpClient();
         RequestParams params = new RequestParams();
         params.put("key", "value");
