@@ -10,6 +10,8 @@ App specifically displays the city, current temperature, max and min temperature
 * Doing HTTP Requests
 
 # How it looks 
-![Screenshot_20210709-110324](https://user-images.githubusercontent.com/86417275/125114619-d0af9a80-e0af-11eb-9ef2-5b6a997a83d7.jpg)
+Austin:
+![Screenshot_20210709-110324](https://user-images.githubusercontent.com/86417275/125115047-6c410b00-e0b0-11eb-8f1a-7250875f3bfb.jpg)
+Guatemala City:
+![Screenshot_20210709-121324](https://user-images.githubusercontent.com/86417275/125114968-4ca9e280-e0b0-11eb-96cd-bbefd501813b.jpg)
 
-![Screenshot_20210709-121324](https://user-images.githubusercontent.com/86417275/125114684-e624c480-e0af-11eb-8d28-c9bb9f21f3ea.jpg)
